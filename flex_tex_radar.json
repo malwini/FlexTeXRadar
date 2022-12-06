@@ -28,7 +28,14 @@
     "description": "test"
   },
   {
-    "name": "python",
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Golang",
     "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
