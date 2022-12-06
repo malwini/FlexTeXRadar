@@ -1,28 +1,49 @@
 [
   {
-    "name": "Babel",
+    "name": "Github",
     "ring": "adopt",
     "quadrant": "tools",
-    "isNew": "TRUE",
+    "isNew": "False",
     "description": "test"
   },
   {
-    "name": "Apache Kafka",
-    "ring": "trial",
+    "name": "Grafana",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "python",
+    "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "test"
   },
   {
-    "name": "Android-x86",
-    "ring": "assess",
+    "name": "AWS Cloud services",
+    "ring": "adopt",
     "quadrant": "platforms",
-    "isNew": "TRUE",
+    "isNew": "False",
     "description": "test"
   },
   {
-    "name": "GrapCloud lift and shifthQL",
-    "ring": "hold",
+    "name": "TDD",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Pair Programming",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Code Reviews",
+    "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "test"
