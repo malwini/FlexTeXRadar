@@ -1,0 +1,9 @@
+[  
+  {
+    "name": "Canary builds",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  }
+]
