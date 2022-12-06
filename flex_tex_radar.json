@@ -7,6 +7,20 @@
     "description": "test"
   },
   {
+    "name": "Github Actions",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "Airflow",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
     "name": "Grafana",
     "ring": "adopt",
     "quadrant": "tools",
@@ -22,7 +36,35 @@
   },
   {
     "name": "AWS Cloud services",
-    "ring": "adopt",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "AWS Lambda",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "AWS RDS",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "Pulumi",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "Influx Cloud",
+    "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
     "description": "test"
@@ -44,6 +86,13 @@
   {
     "name": "Code Reviews",
     "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "RFC",
+    "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
     "description": "test"
