@@ -1,5 +1,12 @@
 [
   {
+    "name": "monday",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
     "name": "Github",
     "ring": "adopt",
     "quadrant": "tools",
@@ -8,6 +15,20 @@
   },
   {
     "name": "Github Actions",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "Pycharm",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "Code With Me",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
@@ -28,8 +49,50 @@
     "description": "test"
   },
   {
+    "name": "Microsoft Teams",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "py.test",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "black",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "flake8",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "docker",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
     "name": "Python",
     "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+   {
+    "name": "flux",
+    "ring": "trial",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "test"
@@ -58,6 +121,13 @@
   {
     "name": "AWS RDS",
     "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
+    "name": "MWAA",
+    "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
     "description": "test"
@@ -99,6 +169,13 @@
   },
   {
     "name": "RFC",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Coding Dojo",
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
