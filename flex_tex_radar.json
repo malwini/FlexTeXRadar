@@ -147,6 +147,13 @@
     "description": "test"
   },
   {
+    "name": "Snowflake",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "False",
+    "description": "test"
+  },
+  {
     "name": "TDD",
     "ring": "trial",
     "quadrant": "techniques",
