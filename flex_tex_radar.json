@@ -1,14 +1,14 @@
 [
   {
-    "name": "monday",
-    "ring": "trial",
+    "name": "Github",
+    "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
     "description": "test"
   },
   {
-    "name": "Github",
-    "ring": "adopt",
+    "name": "monday",
+    "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
     "description": "test"
