@@ -4,10 +4,10 @@
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Internet hosting service for software development und version control."
   },
   {
-    "name": "monday",
+    "name": "monday-dev",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
@@ -18,63 +18,63 @@
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
   },
   {
     "name": "Pycharm",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Python IDE for professionals from JetBrains."
   },
   {
     "name": "Code With Me",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Pair programming and collaboration service from JetBrains."
   },
   {
     "name": "Airflow",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Worflow management platform for data engineering pipelines."
   },
   {
     "name": "Grafana",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Analytics and interactive visualization web platform."
   },
   {
-    "name": "Microsoft Teams",
+    "name": "Teams",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
   },
   {
     "name": "py.test",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Testing framework for python."
   },
   {
     "name": "black",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Python code formatter."
   },
   {
-    "name": "flake8",
+    "name": "Pyflakes",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "False",
-    "description": "test"
+    "description": "Erro checking tool for pyhon."
   },
   {
     "name": "docker",
@@ -88,104 +88,104 @@
     "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "High-level general-purpose dynamically typed programming language."
   },
    {
     "name": "flux",
     "ring": "trial",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Data scripting language designed for querying, analyzing, and acting on data, developed by InflusxData."
   },
   {
     "name": "Golang",
     "ring": "assess",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Statically typed, compiled programming language designed by google."
   },
   {
     "name": "AWS Cloud services",
     "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "On-demand cloud computing platform."
   },
   {
     "name": "AWS Lambda",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "Event-driven, serverless computing platform from AWS."
   },
   {
     "name": "AWS RDS",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "Distributed relational database service by AWS"
   },
   {
     "name": "MWAA",
     "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "Apache Airflow managed orchestration service by AWS."
   },
   {
     "name": "Pulumi",
     "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "Open source infrastructure as code tool for creating, deploying, and managing cloud infrastructure"
   },
   {
     "name": "Influx Cloud",
     "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "Fast, elastic, serverless time series data platform."
   },
   {
     "name": "Snowflake",
     "ring": "trial",
     "quadrant": "platforms",
     "isNew": "False",
-    "description": "test"
+    "description": "Cloud-based data storage and analytics service."
   },
   {
     "name": "TDD",
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Test-driven deevlopment: first create a failing test, then create enough code to make it pass. Finally refactor the design. Repeat until feature is complete."
   },
   {
     "name": "Pair Programming",
     "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Two developers work together at one workstation: a driver that writes code (tactical) and a navigator that reviews the code and and thinks about improvements, design and future issues to adress (strategic)."
   },
   {
     "name": "Code Reviews",
     "ring": "adopt",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Read and comment peer's code to find mistakes, learn from each other and improve the general code quality and design."
   },
   {
     "name": "RFC",
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Written \"Request For Comments\" documents as a decision-making tool for teams."
   },
   {
     "name": "Coding Dojo",
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Meeting where a bunch of coders get together to work on a programming challenge. They are there to have fun and to engage in DeliberatePractice in order to improve their skills."
   }
 ]
