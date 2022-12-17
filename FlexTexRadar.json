@@ -36,7 +36,7 @@
   },
   {
     "name": "Airflow",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
     "description": "Worflow management platform for data engineering pipelines."
@@ -71,7 +71,7 @@
   },
   {
     "name": "Pyflakes",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "tools",
     "isNew": "False",
     "description": "Erro checking tool for pyhon."
