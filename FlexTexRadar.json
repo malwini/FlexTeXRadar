@@ -13,6 +13,13 @@
     "isNew": "False",
     "description": "test"
   },
+   {
+    "name": "basecamp",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "True",
+    "description": "test"
+  },
   {
     "name": "Github Actions",
     "ring": "trial",
