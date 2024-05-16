@@ -13,8 +13,7 @@ You can create the thoughtworks radar by using the [ThoughtWorks Radar generator
 
 ## Notes
 
-- Not sure about the quadrant where to put a technology? Check the [quadrant definitions](https://www.thoughtworks.
-  com/radar/faq#quadrant-definitions) of the ThoughtWorks Radar. But don't worry too much about it. The rings are 
+- Not sure about the quadrant where to put a technology? Check the [quadrant definitions](https://www.thoughtworks.com/radar/faq#quadrant-definitions) of the ThoughtWorks Radar. But don't worry too much about it. The rings are 
   much more important than the quadrants.
 - The radar is a snapshot of the current state. It is not a prediction of the future. It is a reflection of the 
   current thinking of the FlexPwr team.
