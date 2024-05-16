@@ -7,8 +7,8 @@ You can create the thoughtworks radar by using the [ThoughtWorks Radar generator
 
 **Steps**:
 
-1. Get the url of the raw page of the config json file of the radar and copy the **permanent link**. e.g. `https://raw.githubusercontent.com/FlexPwr/FlexTeXRadar/main/content/FlexTexRadar.json`
-2. Call the ThoughtWorks Radar generator with the copied url as documentID. e.g. `https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/FlexPwr/FlexTeXRadar/6a4bbf2571a010daeca15b3761bf9d76581d3f9a/content/FlexPwrRadar.json`
+1. Get the url of the **raw** page of the config json file of the radar and copy the **permanent link**. e.g. `https://raw.githubusercontent.com/FlexPwr/FlexTeXRadar/main/content/FlexPwrTechRadar%20-%202024.1.json`
+2. Call the ThoughtWorks Radar generator with the copied url as documentID. e.g. `https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/FlexPwr/FlexTeXRadar/main/content/FlexPwrTechRadar%20-%202024.1.json`
 
 
 ## Notes
