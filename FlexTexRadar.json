@@ -1,9 +1,9 @@
 [
   {
     "name": "Github",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "False",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
     "description": "Internet hosting service for software development und version control."
   }
 ]
