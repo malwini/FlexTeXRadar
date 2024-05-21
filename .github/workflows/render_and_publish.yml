@@ -33,6 +33,6 @@ jobs:
         with:
           radar_name: FlexPwr Tech Radar - 2024.1
           directory: ./content             # Directory where the radar directory is located
-          base_path: /my-repo/techradar # Path after domain, used to generate assets
+          base_path: /flexpwr/techradar # Path after domain, used to generate assets
           base_dir: techradar             # Location for assets for GH Pages
           publish_to_pages: 'true'
