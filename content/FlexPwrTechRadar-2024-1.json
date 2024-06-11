@@ -28,13 +28,6 @@
     "description": "Project management and team communication software."
   },
   {
-    "name": "Black",
-    "ring": "hold",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Python code formatter. We replaced it with ruff."
-  },
-  {
     "name": "Code Reviews",
     "ring": "adopt",
     "quadrant": "techniques",
@@ -42,11 +35,11 @@
     "description": "Read and comment peer's code to find mistakes, learn from each other and improve the general code quality and design."
   },
   {
-    "name": "Code With Me",
-    "ring": "hold",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Pair programming and collaboration service from JetBrains. We stopped using it and use Tuple instead, because its for more flexible."
+    "name": "Confluence",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": ""
   },
   {
     "name": "Coding Dojo",
@@ -71,7 +64,7 @@
   },
   {
     "name": "GCP BigQuery",
-    "ring": "assess",
+    "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "Data warehouse and data analytics platform."
@@ -90,6 +83,13 @@
     "isNew": "FALSE",
     "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
   },
+    {
+    "name": "Github Projects",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
+  },
   {
     "name": "Golang",
     "ring": "assess",
@@ -98,7 +98,7 @@
     "description": "Statically typed, compiled programming language designed by google."
   },
   {
-    "name": "Grafana",
+    "name": "Grafana Cloud",
     "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "FALSE",
@@ -126,11 +126,18 @@
     "description": "A kata is an exercise in karate where you repeat a form many, many times, making little improvements in each. We use this technique to get familiar with new tools and platforms like the Data Warehouse, e.g.."
   },
   {
-    "name": "Monday.com",
-    "ring": "hold",
+    "name":  "Miro",
+    "ring": "adopt",
     "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "We us monday.com as a CRM and database. It has GraphQL API, is super flexible and easy to use for tech afine non programmers. Yet, from a tech perspective it is to prototypy to use in production."
+    "isNew": "TRUE",
+    "description": "Collaborative online whiteboard platform."
+  },
+  {
+    "name":  "Dataform",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Dataform enables data teams to manage data pipelines and SQL workflows."
   },
   {
     "name": "Pair Programming",
@@ -195,12 +202,19 @@
     "isNew": "FALSE",
     "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
   },
+    {
+    "name": "Sentry",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
+  },
   {
-    "name": "Snowflake",
-    "ring": "trial",
-    "quadrant": "platforms",
-    "isNew": "FALSE",
-    "description": "Cloud-based data storage and analytics service."
+    "name": "Javascript",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": ""
   },
   {
     "name": "TDD",
