@@ -1,54 +1,5 @@
 [
   {
-    "name": "Python",
-    "ring": "adopt",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "High-level general-purpose dynamically typed programming language."
-  },
-  {
-    "name": "SQL",
-    "ring": "assess",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "We use SQL for the Dataware House and our relational DBs."
-  },
-  {
-    "name": "Flux",
-    "ring": "hold",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "Data scripting language designed for querying, analyzing, and acting on data, developed by InfluxData."
-  },
-  {
-    "name": "GraphQL",
-    "ring": "adopt",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "Query language for Monday.com API and other APIs."
-  },
-  {
-    "name": "Golang",
-    "ring": "assess",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "Statically typed, compiled programming language designed by google."
-  },
-  {
-    "name": "Grafana",
-    "ring": "adopt",
-    "quadrant": "platforms",
-    "isNew": "FALSE",
-    "description": "Analytics and interactive visualization web platform."
-  },
-  {
-    "name": "Google BigQuery",
-    "ring": "assess",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "Data warehouse and data analytics platform."
-  },
-  {
     "name": "AWS Lambda",
     "ring": "assess",
     "quadrant": "platforms",
@@ -63,11 +14,109 @@
     "description": "Distributed relational database service by AWS"
   },
   {
+    "name": "Basecamp",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Project management and team communication software."
+  },
+  {
+    "name": "Code Reviews",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Read and comment peer's code to find mistakes, learn from each other and improve the general code quality and design."
+  },
+  {
+    "name": "Code With Me",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Pair programming and collaboration service from JetBrains. We stopped using it and use Tuple instead, because its for more flexible."
+  },
+  {
+    "name": "Coding Dojo",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Meeting where a bunch of coders get together to work on a programming challenge. They are there to have fun and to engage in DeliberatePractice in order to improve their skills."
+  },
+  {
+    "name": "Flux",
+    "ring": "hold",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Data scripting language designed for querying, analyzing, and acting on data, developed by InfluxData."
+  },
+  {
+    "name": "Github",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Internet hosting service for software development und version control."
+  },
+  {
+    "name": "Github Actions",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
+  },
+  {
+    "name": "Golang",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Statically typed, compiled programming language designed by google."
+  },
+  {
+    "name": "Google BigQuery",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Data warehouse and data analytics platform."
+  },
+  {
+    "name": "Grafana",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Analytics and interactive visualization web platform."
+  },
+  {
+    "name": "GraphQL",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Query language for Monday.com API and other APIs."
+  },
+  {
+    "name": "Influx Cloud",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Fast, elastic, serverless time series data platform."
+  },
+  {
+    "name": "Kata",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "A kata is an exercise in karate where you repeat a form many, many times, making little improvements in each. We use this technique to get familiar with new tools and platforms like the Data Warehouse, e.g.."
+  },
+  {
     "name": "MWAA",
     "ring": "trial",
     "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Apache Airflow managed orchestration service by AWS."
+  },
+  {
+    "name": "Pair Programming",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Two developers work together at one workstation: a driver that writes code (tactical) and a navigator that reviews the code and and thinks about improvements, design and future issues to adress (strategic)."
   },
   {
     "name": "Pulumi",
@@ -77,11 +126,39 @@
     "description": "Open source infrastructure as code tool for creating, deploying, and managing cloud infrastructure"
   },
   {
-    "name": "Influx Cloud",
-    "ring": "trial",
-    "quadrant": "platforms",
+    "name": "Pycharm",
+    "ring": "adopt",
+    "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "Fast, elastic, serverless time series data platform."
+    "description": "Python IDE for professionals from JetBrains."
+  },
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "High-level general-purpose dynamically typed programming language."
+  },
+  {
+    "name": "RFC",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Written \"Request For Comments\" documents as a decision-making tool for teams."
+  },
+  {
+    "name": "SQL",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "We use SQL for the Dataware House and our relational DBs."
+  },
+  {
+    "name": "Slack",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
   },
   {
     "name": "Snowflake",
@@ -98,81 +175,11 @@
     "description": "Test-driven development: first create a failing test, then create enough code to make it pass. Finally refactor the design. Repeat until feature is complete."
   },
   {
-    "name": "Pair Programming",
-    "ring": "adopt",
-    "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "Two developers work together at one workstation: a driver that writes code (tactical) and a navigator that reviews the code and and thinks about improvements, design and future issues to adress (strategic)."
-  },
-  {
-    "name": "Code Reviews",
-    "ring": "adopt",
-    "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "Read and comment peer's code to find mistakes, learn from each other and improve the general code quality and design."
-  },
-  {
-    "name": "RFC",
-    "ring": "trial",
-    "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "Written \"Request For Comments\" documents as a decision-making tool for teams."
-  },
-  {
-    "name": "Coding Dojo",
-    "ring": "assess",
-    "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "Meeting where a bunch of coders get together to work on a programming challenge. They are there to have fun and to engage in DeliberatePractice in order to improve their skills."
-  },
-  {
-    "name": "Kata",
-    "ring": "adopt",
-    "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "A kata is an exercise in karate where you repeat a form many, many times, making little improvements in each. We use this technique to get familiar with new tools and platforms like the Data Warehouse, e.g.."
-  },
-  {
-    "name": "Github",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Internet hosting service for software development und version control."
-  },
-  {
-    "name": "monday-dev",
+    "name": "Teams",
     "ring": "hold",
     "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "We us monday.com as a CRM and database. It has GraphQL API, is super flexible and easy to use for tech afine non programmers. Yet, from a tech perspective it is to prototypy to use in production."
-  },
-  {
-    "name": "Basecamp",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "TRUE",
-    "description": "Project management and team communication software."
-  },
-  {
-    "name": "Github Actions",
-    "ring": "trial",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
-  },
-  {
-    "name": "Pycharm",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Python IDE for professionals from JetBrains."
-  },
-  {
-    "name": "Code With Me",
-    "ring": "hold",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Pair programming and collaboration service from JetBrains. We stopped using it and use Tuple instead, because its for more flexible."
+    "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
   },
   {
     "name": "Tuple",
@@ -182,18 +189,25 @@
     "description": "Pair programming and collaboration service. Link: https://tuple.app/"
   },
   {
-    "name": "Slack",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
-  },
-  {
-    "name": "Teams",
+    "name": "black",
     "ring": "hold",
     "quadrant": "tools",
     "isNew": "FALSE",
-    "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
+    "description": "Python code formatter. We replaced it with ruff."
+  },
+  {
+    "name": "docker",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "monday-dev",
+    "ring": "hold",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "We us monday.com as a CRM and database. It has GraphQL API, is super flexible and easy to use for tech afine non programmers. Yet, from a tech perspective it is to prototypy to use in production."
   },
   {
     "name": "py.test",
@@ -203,24 +217,10 @@
     "description": "Testing framework for python."
   },
   {
-    "name": "black",
-    "ring": "hold",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "Python code formatter. We replaced it with ruff."
-  },
-  {
     "name": "ruff",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "TRUE",
     "description": "Error checking tool, formationg and linting for pyhon. All in one."
-  },
-  {
-    "name": "docker",
-    "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "FALSE",
-    "description": "test"
   }
 ]

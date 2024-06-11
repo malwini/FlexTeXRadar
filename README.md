@@ -1,5 +1,8 @@
 # FlexTeXRadar
 
+## Current Radar
+[FlexPwr Tech Radar 2024.1](https://radar.thoughtworks.com/?documentId=https://raw.githubusercontent.com/FlexPwr/FlexTeXRadar/main/content/FlexPwrTechRadar-2024-1.json)
+
 ## How to use?
 
 ### Manual approach

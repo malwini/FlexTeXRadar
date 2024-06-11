@@ -1,7 +1,7 @@
 import json
 
 # Load the data from the JSON file
-with open('content/FlexPwrTechRadar - 2024.1.json', 'r') as file:
+with open('content/FlexPwrTechRadar-2024-1.json', 'r') as file:
     data = json.load(file)
 
 # Define the required fields and their valid values
@@ -28,8 +28,8 @@ for item in data:
                 item[field] = value
 
 # Sort the data by quadrant
-sorted_data = sorted(data, key=lambda x: x['quadrant'])
+sorted_data = sorted(data, key=lambda x: x['name'])
 
 # Save the sorted data back to the JSON file
-with open('content/FlexPwrTechRadar - 2024.1.json', 'w') as file:
+with open('content/FlexPwrTechRadar-2024-1.json', 'w') as file:
     json.dump(sorted_data, file, indent=2)
