@@ -1,28 +1,28 @@
 [
   {
     "name": "AWS Lambda",
-    "ring": "assess",
+    "ring": "trial",
     "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Event-driven, serverless computing platform from AWS."
   },
   {
     "name": "AWS MWAA",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Apache Airflow managed orchestration service by AWS."
   },
   {
     "name": "AWS RDS",
-    "ring": "assess",
+    "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Distributed relational database service by AWS"
   },
   {
     "name": "Basecamp",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
     "description": "Project management and team communication software."
@@ -64,7 +64,7 @@
   },
   {
     "name": "GCP BigQuery",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "Data warehouse and data analytics platform."
@@ -78,21 +78,21 @@
   },
   {
     "name": "Github Actions",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "tools",
     "isNew": "FALSE",
     "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
   },
     {
     "name": "Github Projects",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
     "description": "Self service actions platform and market space for CI/CD and any type of automations around software development workflows."
   },
   {
     "name": "Golang",
-    "ring": "assess",
+    "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "Statically typed, compiled programming language designed by google."
@@ -106,7 +106,7 @@
   },
   {
     "name": "GraphQL",
-    "ring": "adopt",
+    "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "Query language for Monday.com API and other APIs."
@@ -148,7 +148,7 @@
   },
   {
     "name": "Pulumi",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "platforms",
     "isNew": "FALSE",
     "description": "Open source infrastructure as code tool for creating, deploying, and managing cloud infrastructure"
@@ -204,7 +204,7 @@
   },
     {
     "name": "Sentry",
-    "ring": "adopt",
+    "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
     "description": "Communication software: chat, videoconferencing, file sharing and collaboration."
